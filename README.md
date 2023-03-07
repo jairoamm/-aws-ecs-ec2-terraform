@@ -1,4 +1,4 @@
-# AWS ECS Cluster EC2 Instances
+## AWS ECS Cluster EC2 Instances
 
 A reference project to deploy an AWS ECS Cluster of EC2 Instances with Terraform
 
